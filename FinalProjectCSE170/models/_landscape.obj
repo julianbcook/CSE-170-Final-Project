@@ -1,0 +1,11 @@
+# Blender v2.73 (sub 0) OBJ File: '_landscape.blend'
+# www.blender.org
+mtllib _landscape.mtl
+o Plane
+v -9.637585 -0.840964 9.637585
+v 9.637585 -0.840964 9.637585
+v -9.637585 -0.840964 -9.637585
+v 9.637585 -0.840964 -9.637585
+usemtl Material.001
+s off
+f 1 2 4 3

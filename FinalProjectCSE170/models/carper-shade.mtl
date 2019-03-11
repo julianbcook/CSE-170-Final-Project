@@ -1,0 +1,14 @@
+# Blender MTL File: 'carper-shade.blend'
+# Material Count: 1
+
+newmtl Material__280
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump d0ba6294775b9316c2666b0cff98ec7b\\redskull.norm.png
+map_Kd e510a05187768dfe0c6aaba806eb96f8\\Shade.png
+map_Ke f97cbdf1e29811c0dd48b601abc66f2c\\redskull.emiss.png

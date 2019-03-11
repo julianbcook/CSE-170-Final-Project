@@ -1,0 +1,11 @@
+﻿  app_window.cpp
+c:\users\julia\desktop\luiscode\so_myobject.h(28): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\julia\desktop\luiscode\app_window.h(61): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\julia\desktop\luiscode\app_window.cpp(370): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\julia\desktop\luiscode\app_window.cpp(371): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\julia\desktop\luiscode\app_window.cpp(434): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+c:\users\julia\desktop\luiscode\app_window.cpp(461): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+c:\users\julia\desktop\luiscode\app_window.cpp(511): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\julia\desktop\luiscode\app_window.cpp(585): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  glutapp3d.vcxproj -> C:\Users\julia\Desktop\LuisCode\visualc14\obj\objloader_Debug\objloader.exe
+  glutapp3d.vcxproj -> obj\objloader_Debug\objloader.pdb (Full PDB)
